@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Montanejosqr</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="qr_action">qr_action</string>
+    <string name="enter">checkin</string>
+    <string name="exit">checkout</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="resetear_uuid_message">¿Seguro que desea resetear el UUID?</string>
+    <string name="reset_uuid_tltle">Reset UUID</string>
+    <string name="borrar_base_de_datos_title">Borrar Base de datos</string>
+    <string name="borrar_base_de_datos_message">¿Seguro que desea borrar la base de datos?</string>
+    <string name="uuid">uuid</string>
+    <string name="db">db</string>
+    <string name="error_de_conexi_n">Error de conexión</string>
+    <string name="debes_introducir_el_uuid">Debes introducir el UUID</string>
+    <string name="registro_de_dispositivo">Eventos</string>
+    <string name="registerdevice">Añadir un UUID para un nuevo evento.</string>
+    <string name="insertuuid">Teclea o copia UUID aqui</string>
+    <string name="image">image</string>
+    <string name="reseteando_el_uuid_del_dispositivo">reseteando el uuid del dispositivo....</string>
+    <string name="volver_a_registrar_el_dispositivo">Si reseteas el UUID, deberás volver a registrar el dispositivo.</string>
+    <string name="listado_de_eventos">listado de eventos</string>
+    <string name="device_uuid">device uuid:</string>
+</resources>

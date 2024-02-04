@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red_900">#b71c1c</color>
+    <color name="red_700">#d50000</color>
+    <color name="red_500">#f44336</color>
+    <color name="red_200">#ef9a9a</color>
+
+    <color name="blue_dark">#303F9F</color>
+    <color name="blue_accent">#42A5F5</color>
+
+    <color name="buton_personal_information">#F9B423</color>
+    <color name="buton_select_language">#F06708</color>
+    <color name="button_faqs">#C61A24</color>
+    <color name="button_exit_app">#0B574A</color>
+    <color name="button_delete_account">#083D31</color>
+
+    <color name="button_mainview_enter">#104B26</color>
+    <color name="button_mainview_private_policy">#FC5808</color>
+    <color name="button_mainview_signup">#070883</color>
+
+    <color name="button_lopd_already_register">#1E962D</color>
+    <color name="button_lopd_lopd_read_now">#1437DE</color>
+    <color name="button_lopd_terms_read_now">#FD8509</color>
+
+    <color name="button_print_qr_from_register_qr">#FB0007</color>
+    <color name="button_record_from_register_qr">#E83B3F</color>
+
+    <color name="button_whatsapp_invitation">#FD8509</color>
+    <color name="button_record_in_app">#FB0007</color>
+
+    <color name="button_connect_printer">#FB5808</color>
+    <color name="button_shared">#FC8509</color>
+    <color name="button_exit">#FDA93D</color>
+
+    <color name="button_record_video">#070883</color>
+    <color name="button_record_video_cancel">#1437DE</color>
+    <color name="button_record_audio">#104B26</color>
+    <color name="button_record_audio_cancel">#1E962D</color>
+
+    <color name="button_listen_to_audio">#4caf50</color>
+    <color name="button_record_again">#1E962D</color>
+    <color name="button_save_audio">#104B26</color>
+
+    <color name="button_watch_video">#5C72D5</color>
+    <color name="button_record_again_video">#1437DE</color>
+    <color name="button_save_video">#070882</color>
+
+    <!--  https://www.materialpalette.com/colors-->
+    <color name="grey">#616161</color>
+    <color name="light_grey">#F3F2F2</color>
+    <color name="grey_light">#a7a7a7</color>
+    <color name="red">#d50000</color>
+    <color name="green">#2e7d32</color>
+
+</resources>
